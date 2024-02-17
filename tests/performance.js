@@ -13,7 +13,7 @@ export const options = {
 
 const baseURL = 'https://reqres.in';
 const userName = 'Rizky Tegar Pratama';
-const createJob = 'Principal Tukang Rebahan';
+const createJob = 'Principal Engineer';
 const updateJob = 'Backend Developer';
 
 export default function () {

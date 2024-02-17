@@ -7,7 +7,7 @@ const userID = 2;
 
 const createUser = {
   name: 'Rizky Tegar Pratama',
-  job: 'Principal Tukang Rebahan',
+  job: 'Principal Engineer',
 };
 
 const updateUser = {
